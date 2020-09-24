@@ -31,7 +31,7 @@ Make sure that the bot is still running in the terminall.
 
 ## testing
 
-In order for the testing to work you have to first make sure the game is working fine
+To test the game, you need to follow from step 1 to ensure the game is running fine and then run Rspec in the code directory.
 
 
 
@@ -40,7 +40,6 @@ In order for the testing to work you have to first make sure the game is working
 👤 **Akintoye Olamide**
 
 - Github: [@githubhandle](https://github.com/AkintoyeOlamide)
-- Twitter: [@twitterhandle](https://twitter.com/@toshactL)
 - Linkedin: [linkedin](https://www.linkedin.com/in/akintoye-olamide-baa80b1a4/)
 - Email:  akintoyeolamide500@gmail.com
 
